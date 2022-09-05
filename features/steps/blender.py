@@ -3,9 +3,9 @@
 class Blender(object):
 
     Transformation_Map = {'Red Tree Frog':'Mush',
-                          'Apples':'Apple juice',
-                          'iPhone':'Toxic Wastage',
-                          'Galaxy Nexus':'Toxic Wastage'}
+                          'apples':'apple juice',
+                          'iphone':'toxic wastage',
+                          'Galaxy Nexus':'toxic wastage'}
 
     def __init__(self):
         self.thing = None
